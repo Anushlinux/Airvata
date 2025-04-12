@@ -1,0 +1,13 @@
+agents:
+  instagram_agent:
+    model: gemini-2.0-flash-exp
+    tools:
+      - name: instagram_dm_sender
+        type: custom_tool
+    evaluation:
+      test_cases: tests/test_cases.json
+deployment:
+  target: cloud-run
+  container_config:
+    memory: 2Gi
+    cpu: 2
