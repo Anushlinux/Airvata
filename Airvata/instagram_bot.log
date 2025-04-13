@@ -1,0 +1,184 @@
+2025-04-13 01:10:26,734 - __main__ - INFO - Starting Instagram DM AI bot
+2025-04-13 01:10:26,735 - instagram_client - INFO - Attempting Instagram login...
+2025-04-13 01:10:32,251 - instagrapi - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-04-13 01:10:34,799 - private_request - INFO - None [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-04-13 01:10:34,802 - instagram_client - INFO - Successfully loaded session. User ID: 27531093553
+2025-04-13 01:10:34,802 - ai_agent - INFO - AI Agent initialized successfully
+2025-04-13 01:10:34,803 - dm_handler - INFO - Loaded conversation history from file
+2025-04-13 01:10:34,803 - __main__ - INFO - Bot started. Checking for messages every 60 seconds
+2025-04-13 01:10:34,804 - instagram_client - INFO - Checking for unread messages...
+2025-04-13 01:10:41,288 - instagrapi - INFO - https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-04-13 01:10:43,997 - private_request - INFO - None [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-04-13 01:10:44,081 - instagram_client - INFO - Found 2 threads with unread messages
+2025-04-13 01:10:44,082 - dm_handler - INFO - Processing 11 new messages in thread 340282366841710301281159932442309349643
+2025-04-13 01:10:44,082 - ai_agent - INFO - Generating response for message: 
+2025-04-13 01:10:46,712 - ai_agent - INFO - Generating response for message: 
+2025-04-13 01:10:49,116 - ai_agent - INFO - Generating response for message: 
+2025-04-13 01:10:52,209 - ai_agent - INFO - Generating response for message: 
+2025-04-13 01:10:56,359 - ai_agent - INFO - Generating response for message: 
+2025-04-13 01:10:58,655 - __main__ - INFO - Bot stopped by user
+2025-04-13 01:10:58,661 - __main__ - INFO - Bot stopped
+2025-04-13 01:18:23,067 - __main__ - INFO - Starting Instagram DM AI bot
+2025-04-13 01:18:23,069 - instagram_client - INFO - Attempting Instagram login...
+2025-04-13 01:18:27,043 - instagrapi - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-04-13 01:18:29,075 - private_request - INFO - None [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-04-13 01:18:29,078 - instagram_client - INFO - Successfully loaded session. User ID: 27531093553
+2025-04-13 01:18:29,078 - ai_agent - INFO - AI Agent initialized successfully
+2025-04-13 01:18:29,079 - dm_handler - INFO - Loaded processed message IDs from file
+2025-04-13 01:18:29,080 - dm_handler - INFO - Loaded conversation history from file
+2025-04-13 01:18:29,080 - __main__ - INFO - Bot started. Checking for messages every 60 seconds
+2025-04-13 01:18:29,082 - instagram_client - INFO - Checking for unread messages...
+2025-04-13 01:18:36,614 - instagrapi - INFO - https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-04-13 01:18:39,826 - private_request - INFO - None [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-04-13 01:18:39,936 - instagram_client - INFO - Found 3 threads with unread messages
+2025-04-13 01:18:39,937 - dm_handler - INFO - Processing 11 new messages in thread 340282366841710301281161494076329792240
+2025-04-13 01:18:39,939 - ai_agent - INFO - Generating response for message: 
+2025-04-13 01:18:42,553 - __main__ - INFO - Bot stopped by user
+2025-04-13 01:18:42,560 - __main__ - INFO - Bot stopped
+2025-04-13 01:21:27,547 - __main__ - INFO - Starting Instagram DM AI bot
+2025-04-13 01:21:27,548 - instagram_client - INFO - Attempting Instagram login...
+2025-04-13 01:21:32,008 - instagrapi - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-04-13 01:21:33,933 - private_request - INFO - None [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-04-13 01:21:33,939 - instagram_client - INFO - Successfully loaded session. User ID: 27531093553
+2025-04-13 01:21:33,942 - ai_agent - INFO - AI Agent initialized successfully
+2025-04-13 01:21:33,944 - dm_handler - INFO - Loaded processed message IDs from file
+2025-04-13 01:21:33,947 - dm_handler - INFO - Loaded conversation history from file
+2025-04-13 01:21:33,948 - __main__ - INFO - Bot started. Checking for messages every 60 seconds
+2025-04-13 01:21:33,950 - instagram_client - INFO - Checking for unread messages...
+2025-04-13 01:21:39,674 - instagrapi - INFO - https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-04-13 01:21:43,135 - private_request - INFO - None [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-04-13 01:21:43,262 - instagram_client - INFO - Found 3 threads with unread messages
+2025-04-13 01:21:43,263 - dm_handler - INFO - Processing 10 new messages in thread 340282366841710301281161494076329792240
+2025-04-13 01:21:45,942 - ai_agent - INFO - Generating response for message: 
+2025-04-13 01:21:45,943 - ai_agent - WARNING - Empty message text provided
+2025-04-13 01:21:49,760 - ai_agent - INFO - Generating response for message: 
+2025-04-13 01:21:49,761 - ai_agent - WARNING - Empty message text provided
+2025-04-13 01:21:52,593 - ai_agent - INFO - Generating response for message: 
+2025-04-13 01:21:52,593 - ai_agent - WARNING - Empty message text provided
+2025-04-13 01:21:55,223 - ai_agent - INFO - Generating response for message: @n0tedwastaken
+2025-04-13 01:21:57,718 - ai_agent - INFO - Generating response for message: 
+2025-04-13 01:21:57,718 - ai_agent - WARNING - Empty message text provided
+2025-04-13 01:21:58,441 - __main__ - INFO - Bot stopped by user
+2025-04-13 01:21:58,448 - __main__ - INFO - Bot stopped
+2025-04-13 01:24:14,919 - __main__ - INFO - Starting Instagram DM AI bot
+2025-04-13 01:24:14,920 - instagram_client - INFO - Attempting Instagram login...
+2025-04-13 01:24:19,341 - instagrapi - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-04-13 01:24:21,495 - private_request - INFO - None [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-04-13 01:24:21,501 - instagram_client - INFO - Successfully loaded session. User ID: 27531093553
+2025-04-13 01:24:21,502 - ai_agent - INFO - AI Agent initialized successfully
+2025-04-13 01:24:21,504 - dm_handler - INFO - Loaded processed message IDs from file
+2025-04-13 01:24:21,506 - dm_handler - INFO - Loaded conversation history from file
+2025-04-13 01:24:21,506 - __main__ - INFO - Bot started. Checking for messages every 60 seconds
+2025-04-13 01:24:21,507 - instagram_client - INFO - Checking for unread messages...
+2025-04-13 01:24:28,166 - instagrapi - INFO - https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-04-13 01:24:31,334 - private_request - INFO - None [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-04-13 01:24:31,458 - instagram_client - INFO - Found 3 threads with unread messages
+2025-04-13 01:24:31,459 - ai_agent - INFO - Session 340282366841710301281161494076329792240 not found, creating new one
+2025-04-13 01:24:31,461 - ai_agent - ERROR - Failed to create session 340282366841710301281161494076329792240: 'Runner' object has no attribute 'create_session'
+2025-04-13 01:24:31,462 - dm_handler - INFO - Processing 4 new messages in thread 340282366841710301281161494076329792240
+2025-04-13 01:24:31,463 - ai_agent - INFO - Generating response for message: 
+2025-04-13 01:24:31,464 - ai_agent - WARNING - Empty message text provided
+2025-04-13 01:24:34,931 - ai_agent - INFO - Generating response for message: 
+2025-04-13 01:24:34,932 - ai_agent - WARNING - Empty message text provided
+2025-04-13 01:24:37,722 - ai_agent - INFO - Generating response for message: 
+2025-04-13 01:24:37,723 - ai_agent - WARNING - Empty message text provided
+2025-04-13 01:24:41,024 - ai_agent - INFO - Generating response for message: @arnv1250
+2025-04-13 01:24:41,025 - ai_agent - INFO - Session 340282366841710301281161494076329792240 not found, creating new one
+2025-04-13 01:24:41,027 - ai_agent - ERROR - Failed to create session 340282366841710301281161494076329792240: 'Runner' object has no attribute 'create_session'
+2025-04-13 01:24:41,028 - ai_agent - ERROR - Cannot generate response: Failed to create session 340282366841710301281161494076329792240
+2025-04-13 01:24:41,029 - instagram_client - INFO - Sending reply to thread 340282366841710301281161494076329792240
+2025-04-13 01:24:48,168 - instagrapi - INFO - https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-04-13 01:24:48,731 - private_request - INFO - None [200] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-04-13 01:24:48,732 - instagram_client - INFO - Successfully sent reply to thread 340282366841710301281161494076329792240
+2025-04-13 01:24:48,734 - dm_handler - INFO - Sent response to gargijoshi__ in thread 340282366841710301281161494076329792240
+2025-04-13 01:24:52,886 - ai_agent - INFO - Session 340282366841710301281159932442309349643 not found, creating new one
+2025-04-13 01:24:52,888 - ai_agent - ERROR - Failed to create session 340282366841710301281159932442309349643: 'Runner' object has no attribute 'create_session'
+2025-04-13 01:24:52,889 - dm_handler - INFO - Processing 6 new messages in thread 340282366841710301281159932442309349643
+2025-04-13 01:24:52,890 - ai_agent - INFO - Generating response for message: 
+2025-04-13 01:24:52,891 - ai_agent - WARNING - Empty message text provided
+2025-04-13 01:24:55,220 - ai_agent - INFO - Generating response for message: 
+2025-04-13 01:24:55,220 - ai_agent - WARNING - Empty message text provided
+2025-04-13 01:24:58,334 - ai_agent - INFO - Generating response for message: 
+2025-04-13 01:24:58,337 - ai_agent - WARNING - Empty message text provided
+2025-04-13 01:25:00,968 - ai_agent - INFO - Generating response for message: 
+2025-04-13 01:25:00,968 - ai_agent - WARNING - Empty message text provided
+2025-04-13 01:25:03,524 - __main__ - INFO - Bot stopped by user
+2025-04-13 01:25:03,526 - __main__ - INFO - Bot stopped
+2025-04-13 01:31:49,904 - __main__ - INFO - Starting Instagram DM AI bot
+2025-04-13 01:31:49,905 - instagram_client - INFO - Attempting Instagram login...
+2025-04-13 01:31:53,755 - instagrapi - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-04-13 01:31:55,903 - private_request - INFO - None [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-04-13 01:31:55,912 - instagram_client - INFO - Successfully loaded session. User ID: 27531093553
+2025-04-13 01:31:55,914 - ai_agent - INFO - AI Agent initialized successfully
+2025-04-13 01:31:55,916 - dm_handler - INFO - Loaded processed message IDs from file
+2025-04-13 01:31:55,918 - dm_handler - INFO - Loaded conversation history from file
+2025-04-13 01:31:55,919 - __main__ - INFO - Bot started. Checking for messages every 60 seconds
+2025-04-13 01:31:55,920 - instagram_client - INFO - Checking for unread messages...
+2025-04-13 01:32:03,512 - instagrapi - INFO - https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-04-13 01:32:06,214 - private_request - INFO - None [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-04-13 01:32:06,238 - instagram_client - INFO - Found 3 threads with unread messages
+2025-04-13 01:32:06,239 - ai_agent - INFO - Session 340282366841710301281159932442309349643 not found, creating new one
+2025-04-13 01:32:06,239 - ai_agent - ERROR - Failed to create session 340282366841710301281159932442309349643: 'Runner' object has no attribute 'create_session'
+2025-04-13 01:32:06,240 - dm_handler - INFO - Processing 6 new messages in thread 340282366841710301281159932442309349643
+2025-04-13 01:32:06,240 - ai_agent - INFO - Generating response for message: 
+2025-04-13 01:32:06,240 - ai_agent - WARNING - Empty message text provided
+2025-04-13 01:32:08,397 - ai_agent - INFO - Generating response for message: 
+2025-04-13 01:32:08,398 - ai_agent - WARNING - Empty message text provided
+2025-04-13 01:32:12,168 - ai_agent - INFO - Generating response for message: 
+2025-04-13 01:32:12,169 - ai_agent - WARNING - Empty message text provided
+2025-04-13 01:32:14,705 - ai_agent - INFO - Generating response for message: 
+2025-04-13 01:32:14,706 - ai_agent - WARNING - Empty message text provided
+2025-04-13 01:32:17,753 - ai_agent - INFO - Generating response for message: 
+2025-04-13 01:32:17,755 - ai_agent - WARNING - Empty message text provided
+2025-04-13 01:32:17,950 - __main__ - INFO - Bot stopped by user
+2025-04-13 01:32:17,957 - __main__ - INFO - Bot stopped
+2025-04-13 01:35:58,418 - __main__ - INFO - Starting Instagram DM AI bot
+2025-04-13 01:35:58,419 - instagram_client - INFO - Attempting Instagram login...
+2025-04-13 01:36:03,781 - instagrapi - INFO - https://i.instagram.com/api/v1/feed/timeline/
+2025-04-13 01:36:05,807 - private_request - INFO - None [200] POST https://i.instagram.com/api/v1/feed/timeline/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-04-13 01:36:05,810 - instagram_client - INFO - Successfully loaded session. User ID: 27531093553
+2025-04-13 01:36:05,810 - ai_agent - INFO - AI Agent initialized successfully
+2025-04-13 01:36:05,811 - dm_handler - INFO - Loaded processed message IDs from file
+2025-04-13 01:36:05,812 - dm_handler - INFO - Loaded conversation history from file
+2025-04-13 01:36:05,812 - __main__ - INFO - Bot started. Checking for messages every 60 seconds
+2025-04-13 01:36:05,813 - instagram_client - INFO - Checking for unread messages...
+2025-04-13 01:36:11,742 - instagrapi - INFO - https://i.instagram.com/api/v1/direct_v2/inbox/
+2025-04-13 01:36:14,842 - private_request - INFO - None [200] GET https://i.instagram.com/api/v1/direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20&is_prefetching=false&selected_filter=unread (269.0.0.18.75, OnePlus 6T Dev)
+2025-04-13 01:36:14,860 - instagram_client - INFO - Found 3 threads with unread messages
+2025-04-13 01:36:14,861 - ai_agent - INFO - Session 340282366841710301281159932442309349643 not found, creating new one
+2025-04-13 01:36:14,861 - ai_agent - ERROR - Failed to ensure session 340282366841710301281159932442309349643: InMemorySessionService.create_session() missing 1 required keyword-only argument: 'app_name'
+2025-04-13 01:36:14,861 - dm_handler - INFO - Processing 1 new messages in thread 340282366841710301281159932442309349643
+2025-04-13 01:36:14,862 - dm_handler - INFO - Skipping empty or non-text message 32180125708968314335177939263422464 from anirudha.khasnobis in thread 340282366841710301281159932442309349643
+2025-04-13 01:36:14,862 - ai_agent - INFO - Session 340282366841710301244259012434121544567 not found, creating new one
+2025-04-13 01:36:14,862 - ai_agent - ERROR - Failed to ensure session 340282366841710301244259012434121544567: InMemorySessionService.create_session() missing 1 required keyword-only argument: 'app_name'
+2025-04-13 01:36:14,863 - dm_handler - INFO - Processing 11 new messages in thread 340282366841710301244259012434121544567
+2025-04-13 01:36:14,863 - dm_handler - INFO - Skipping empty or non-text message 32145943103123078864374797296467968 from user_27531093553 in thread 340282366841710301244259012434121544567
+2025-04-13 01:36:14,863 - dm_handler - INFO - Skipping empty or non-text message 32146212561546271524000606741069824 from saish_k_14 in thread 340282366841710301244259012434121544567
+2025-04-13 01:36:14,863 - ai_agent - INFO - Generating response for message: Bhaiiiiiiiiiii
+2025-04-13 01:36:14,865 - ai_agent - INFO - Session 340282366841710301244259012434121544567 not found, creating new one
+2025-04-13 01:36:14,865 - ai_agent - ERROR - Failed to ensure session 340282366841710301244259012434121544567: InMemorySessionService.create_session() missing 1 required keyword-only argument: 'app_name'
+2025-04-13 01:36:15,366 - ai_agent - INFO - Session 340282366841710301244259012434121544567 not found, creating new one
+2025-04-13 01:36:15,367 - ai_agent - ERROR - Failed to ensure session 340282366841710301244259012434121544567: InMemorySessionService.create_session() missing 1 required keyword-only argument: 'app_name'
+2025-04-13 01:36:15,869 - ai_agent - INFO - Session 340282366841710301244259012434121544567 not found, creating new one
+2025-04-13 01:36:15,870 - ai_agent - ERROR - Failed to ensure session 340282366841710301244259012434121544567: InMemorySessionService.create_session() missing 1 required keyword-only argument: 'app_name'
+2025-04-13 01:36:16,376 - ai_agent - ERROR - Cannot generate response: Failed to ensure session 340282366841710301244259012434121544567 is ready after 3 retries.
+2025-04-13 01:36:16,379 - instagram_client - INFO - Sending reply to thread 340282366841710301244259012434121544567
+2025-04-13 01:36:21,660 - instagrapi - INFO - https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-04-13 01:36:22,111 - private_request - INFO - None [200] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-04-13 01:36:22,113 - instagram_client - INFO - Successfully sent reply to thread 340282366841710301244259012434121544567
+2025-04-13 01:36:22,115 - dm_handler - INFO - Sent response to saish_k_14 in thread 340282366841710301244259012434121544567
+2025-04-13 01:36:24,824 - ai_agent - INFO - Generating response for message: dekh liya mai ye live
+2025-04-13 01:36:24,824 - ai_agent - INFO - Session 340282366841710301244259012434121544567 not found, creating new one
+2025-04-13 01:36:24,825 - ai_agent - ERROR - Failed to ensure session 340282366841710301244259012434121544567: InMemorySessionService.create_session() missing 1 required keyword-only argument: 'app_name'
+2025-04-13 01:36:25,326 - ai_agent - INFO - Session 340282366841710301244259012434121544567 not found, creating new one
+2025-04-13 01:36:25,326 - ai_agent - ERROR - Failed to ensure session 340282366841710301244259012434121544567: InMemorySessionService.create_session() missing 1 required keyword-only argument: 'app_name'
+2025-04-13 01:36:25,827 - ai_agent - INFO - Session 340282366841710301244259012434121544567 not found, creating new one
+2025-04-13 01:36:25,828 - ai_agent - ERROR - Failed to ensure session 340282366841710301244259012434121544567: InMemorySessionService.create_session() missing 1 required keyword-only argument: 'app_name'
+2025-04-13 01:36:26,330 - ai_agent - ERROR - Cannot generate response: Failed to ensure session 340282366841710301244259012434121544567 is ready after 3 retries.
+2025-04-13 01:36:26,331 - instagram_client - INFO - Sending reply to thread 340282366841710301244259012434121544567
+2025-04-13 01:36:33,290 - instagrapi - INFO - https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/
+2025-04-13 01:36:33,647 - private_request - INFO - None [200] POST https://i.instagram.com/api/v1/direct_v2/threads/broadcast/text/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-04-13 01:36:33,648 - instagram_client - INFO - Successfully sent reply to thread 340282366841710301244259012434121544567
+2025-04-13 01:36:33,649 - dm_handler - INFO - Sent response to user_27531093553 in thread 340282366841710301244259012434121544567
+2025-04-13 01:36:35,668 - __main__ - INFO - Bot stopped by user
+2025-04-13 01:36:35,676 - __main__ - INFO - Bot stopped
