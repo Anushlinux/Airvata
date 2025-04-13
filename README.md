@@ -1,6 +1,6 @@
 # Airvata
 
-Automated replies to your `nalle` friends who sends you 100 reels everyday and expect reaction on each of them ;)
+Automated replies to your `nalle` friends who sends you 100 reels everyday and expect reaction to each of them ;)
 
 ## Description
 
